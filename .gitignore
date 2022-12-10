@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# plain text file with api keys -- not to added to repo.
+api_dict
+secrets.txt.py
